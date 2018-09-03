@@ -3,7 +3,7 @@ package com.sup.supHome.common.beans;
 /**
  * 订阅号
  * @desc 
- * @author Liuchen
+ * @author Liuc
  * @date 2018年8月20日 下午5:09:58
  */
 public class WeChat {

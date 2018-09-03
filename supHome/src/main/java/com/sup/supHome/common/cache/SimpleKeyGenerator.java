@@ -9,7 +9,6 @@ import org.springframework.util.ClassUtils;
 
 /**
  * @desc 自定义key生成策略
- * @author Quinsai
  */
 public class SimpleKeyGenerator implements KeyGenerator {
 

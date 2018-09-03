@@ -21,7 +21,7 @@ import net.sf.ehcache.Element;
 /**
  * 调用订阅号工具
  * @desc 
- * @author Liuchen
+ * @author Liuc
  * @date 2018年8月20日 下午5:16:08
  */
 @Component

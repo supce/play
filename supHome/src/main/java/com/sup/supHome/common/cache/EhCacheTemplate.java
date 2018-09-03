@@ -11,7 +11,6 @@ import net.sf.ehcache.Element;
 
 /**
  * @desc EhCache工具类
- * @author Quinsai
  */
 public class EhCacheTemplate {
 
